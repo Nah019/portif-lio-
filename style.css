@@ -9,6 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
+    background-image: url(fundo\ do\ site.jpg);
 }
 
 h1, h2, h5 {
